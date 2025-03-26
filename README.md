@@ -11,9 +11,10 @@ My skills include:
   - HTML/CSS/JavaScript
 
 🌱 I continue to build my skills in machine learning, web development, data visualization, object-oriented design and more!
-🔭 My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project which helps patients find the best doctor for their needs.
-💬 Ask me about ... the Appalachian Trail!
 
+🔭 My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project which helps patients find the best doctor for their needs.
+
+💬 Ask me about ... the Appalachian Trail!
 
 >> Some of my work has been made private due to academic policy, but can be shared upon request.
 
