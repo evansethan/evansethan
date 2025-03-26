@@ -16,7 +16,7 @@ I am a data engineer committed to modernizing and strengthening public interest 
 
 💬 Ask me about ... the Appalachian Trail!
 
->> Some of my work has been made private due to academic policy, and can be shared upon request.
+> Some of my work has been made private due to academic policy, and can be shared upon request.
 
 <!--
 **ethan1evans/ethan1evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
