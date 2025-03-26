@@ -1,6 +1,6 @@
 ## I'm Ethan :-)
 
-I am a data engineer committed to modernizing and strengthening public interest organizations. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
+I am a data engineer committed to modernizing and strengthening public interest organizations. I am currently enrolled in the M.S. in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
  ### 🤖 Tech Stack
   - Python3 (NumPy, Pandas, Matplotlib, Plotly, Dash)
