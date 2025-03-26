@@ -2,7 +2,7 @@
 
 I am a data engineer committed to modernizing and strengthening public interest organizations. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
-My skills include:
+ # 🤖 Tech Stack
   - Python
   - SQL
   - R
