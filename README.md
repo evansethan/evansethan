@@ -1,4 +1,4 @@
-## Hey, I'm Ethan :-)
+## I'm Ethan :-)
 
 I am a data engineer committed to modernizing and strengthening public interest organizations, because I believe that everyone deserves to benefit from technological progress. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
