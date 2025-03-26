@@ -1,6 +1,6 @@
 ## Hey, I'm Ethan :-)
 
-I am a data engineer committed to modernizing and strengthening public interest organizations. I believe that everyone (and I do mean everyone) deserves to benefit from technological advancement. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
+I am a data engineer committed to modernizing and strengthening public interest organizations, because I believe that everyone deserves to benefit from technological progress. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
 My skills include:
   - Python
@@ -10,7 +10,7 @@ My skills include:
   - Java
   - HTML/CSS/JavaScript
 
-I continue to build my skills in machine learning, web development, data visulaization, object-oriented design and more! My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project whichs helps patients find the best doctor for their needs.
+I continue to build my skills in machine learning, web development, data visualization, object-oriented design and more! My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project which helps patients find the best doctor for their needs.
 
 I also love being outdoors, and I took it to the extreme when I thru-hiked the Appalachian Trail in 2022.
 
