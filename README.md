@@ -2,13 +2,13 @@
 
 I am a data engineer committed to modernizing and strengthening public interest organizations. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
- # 🤖 Tech Stack
-  - Python
+ ### 🤖 Tech Stack
+  - Python3 (NumPy, Pandas, Matplotlib, Plotly, Dash)
   - SQL
   - R
   - QGIS
   - Java
-  - HTML/CSS/JavaScript
+  - HTML5/CSS3/JavaScript
 
 🌱 I continue to build my skills in machine learning, web development, data visualization, object-oriented design and more!
 
