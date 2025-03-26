@@ -1,6 +1,6 @@
 ## I'm Ethan :-)
 
-I am a data engineer committed to modernizing and strengthening public interest organizations, because I believe that everyone deserves to benefit from technological progress. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
+I am a data engineer committed to modernizing and strengthening public interest organizations. I am currently enrolled in the Masters of Science in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago. 
 
 My skills include:
   - Python
@@ -14,7 +14,7 @@ I continue to build my skills in machine learning, web development, data visuali
 
 I also love being outdoors, and I took it to the extreme when I thru-hiked the Appalachian Trail in 2022.
 
->> Some of my work has been made private due to academic policy, but can be shared upon request. <<
+>> Some of my work has been made private due to academic policy, but can be shared upon request.
 <!--
 **ethan1evans/ethan1evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
