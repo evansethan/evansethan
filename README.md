@@ -12,17 +12,14 @@ I am a data engineer committed to modernizing and strengthening public interest 
 
 🌱 I continue to build my skills in machine learning, web development, data visualization, object-oriented design and more!
 
-🔭 My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project which helps patients find the best doctor for their needs.
-
 💬 Ask me about ... the Appalachian Trail!
 
 > Some of my work has been made private due to academic policy, and can be shared upon request.
 
 <!--
-**ethan1evans/ethan1evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+🔭 My previous projects have been on mapping U.S. electricity grid resilience and renewables adoption, and I am currently working on a machine learning project which helps patients find the best doctor for their needs.
 
 
 - 👯 I’m looking to collaborate on ...
