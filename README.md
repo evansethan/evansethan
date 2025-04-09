@@ -6,7 +6,7 @@ I am a data engineer committed to modernizing and strengthening public interest 
   - Python3 (NumPy, Pandas, Matplotlib, Plotly, Dash)
   - SQL
   - R
-  - QGIS
+  - ArcGIS/QGIS
   - Java
   - HTML5/CSS3/JavaScript
 
