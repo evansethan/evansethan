@@ -2,7 +2,7 @@
 
 🏢 Software Engineer @ trubel&co
 
-Software and ML engineer focused on data science, public policy, and building tools for public interest organizations. M.S. in Computational Analysis and Public Policy, University of Chicago.
+I build software at the intersection of machine learning and public infrastructure — transit systems, energy grids, and civic tooling. M.S. in Computational Analysis and Public Policy, University of Chicago.
 
 ---
 
@@ -35,4 +35,4 @@ Software and ML engineer focused on data science, public policy, and building to
 
 ---
 
-🥾 Ask me about thru-hiking the Appalachian Trail
+🌐 [evansethan.com](https://evansethan.com) &nbsp;·&nbsp; 🥾 Ask me about thru-hiking the Appalachian Trail
