@@ -33,11 +33,6 @@ Software and ML engineer focused on data science, public policy, and building to
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Geospatial
-![ArcGIS](https://img.shields.io/badge/ArcGIS-4479A1?style=flat-square&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![GeoDa](https://img.shields.io/badge/GeoDa-1F6E8C?style=flat-square)
-
 ---
 
 🥾 Ask me about thru-hiking the Appalachian Trail
