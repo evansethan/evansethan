@@ -2,7 +2,7 @@
 
 🏢 Software Engineer @ trubel&co
 
-I build software at the intersection of machine learning and public infrastructure — transit systems, energy grids, and civic tooling. M.S. in Computational Analysis and Public Policy, University of Chicago.
+I build software for public infrastructure: the systems people depend on but rarely see. M.S. in Computational Analysis and Public Policy, University of Chicago.
 
 ---
 
